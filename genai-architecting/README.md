@@ -6,7 +6,7 @@ The goal is to create a system that can assist users in learning a new language 
 
 # Constraints
 Limited Hardware Capacity:
-The current hardware setup, an Intel i5 processor with 8GB of RAM, is not ideal for running large Generative AI (GenAI) models efficiently.
+The current hardware setup, is not ideal for running large Generative AI (GenAI) models efficiently.
 
 # Risks
 Cloud costs may vary depending on usage patterns, model size, and the frequency of requests.
